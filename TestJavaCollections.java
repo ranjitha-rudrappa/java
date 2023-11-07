@@ -9,6 +9,7 @@ list.add("Vijay");
 list.add("Ramesh");  
 list.add("Ajay"); 
   list.add("Teja");
+  list.add("Ranganath");
 //Traversing list through Iterator  
 Iterator itr=list.iterator();  
 while(itr.hasNext()){  
